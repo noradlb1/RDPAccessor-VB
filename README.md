@@ -2,7 +2,7 @@
 RDPAccessor-VB
 
 
-Orginal C#
+Orginal SRC In C#
 
 https://github.com/K3rnel-Dev/RDPAccessor
 
