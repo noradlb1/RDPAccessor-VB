@@ -1,0 +1,5 @@
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_stub\exe\bin\Debug\WMIRegistrationServ.exe.config
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_stub\exe\bin\Debug\WMIRegistrationServ.exe
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_stub\exe\obj\x86\Debug\exe.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_stub\exe\obj\x86\Debug\exe.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_stub\exe\obj\x86\Debug\WMIRegistrationServ.exe

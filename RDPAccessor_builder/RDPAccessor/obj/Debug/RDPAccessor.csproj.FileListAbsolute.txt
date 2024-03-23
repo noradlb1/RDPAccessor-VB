@@ -1,0 +1,8 @@
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\bin\Debug\RDPStealer.exe.config
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\bin\Debug\RDPStealer.exe
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPAccessor.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPAccessor.Form1.resources
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPAccessor.Properties.Resources.resources
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPAccessor.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPAccessor.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPStealer.exe

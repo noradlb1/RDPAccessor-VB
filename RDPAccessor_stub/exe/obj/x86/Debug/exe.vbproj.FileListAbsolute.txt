@@ -1,0 +1,3 @@
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_stub\exe\obj\x86\Debug\exe.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_stub\exe\obj\x86\Debug\WMIRegistrationServ.exe
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_stub\exe\obj\x86\Debug\exe.vbproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPAccessor.Form1.resources
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPAccessor.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPAccessor.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\RDPAccessor-main\RDPAccessor-main\RDPAccessorProject\RDPAccessor_builder\RDPAccessor\obj\Debug\RDPStealer.exe
