@@ -1,8 +1,8 @@
 # RDPAccessor-VB
 RDPAccessor-VB
 
-![CSHARP](https://img.shields.io/badge/Language-CSHARP-aqua?style=for-the-badge&logo=CS)
-![](bnr.png)
+![lck_bnr](https://github.com/noradlb1/RDPAccessor-VB/assets/74623428/a5a4fb09-bfdf-4620-bc65-7044a7e8b03f)
+
 
 ## 📑 About
 <b>Most simple rdp(accessor), this program have builder for crafting stubs.
@@ -18,8 +18,11 @@ RDPAccessor-VB
 
 ## 💻 Screens
 <p float="left" align="center">
-  <img alt="screen" width="300" src="lck_bnr.png">
-  <img alt="screen" width="300" src="log_sample.png">
+  
+![bnr](https://github.com/noradlb1/RDPAccessor-VB/assets/74623428/cd01dad5-694f-4ec5-8d26-d691bbc413b1)
+
+![log_sample](https://github.com/noradlb1/RDPAccessor-VB/assets/74623428/ec2bd64b-7644-4fc2-a547-203c4c305083)
+
 </p> 
 
 
