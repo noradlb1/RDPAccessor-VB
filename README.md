@@ -1,6 +1,12 @@
 # RDPAccessor-VB
 RDPAccessor-VB
 
+
+Orginal C#
+
+https://github.com/K3rnel-Dev/RDPAccessor
+
+
 ![lck_bnr](https://github.com/noradlb1/RDPAccessor-VB/assets/74623428/a5a4fb09-bfdf-4620-bc65-7044a7e8b03f)
 
 
